@@ -2,18 +2,18 @@
 **Team Name**       :        7tastic-6
 
 **Team Members**   :        
+Shivangi Singh
 Shubhan Ravi  
 Mudit Chand Narayan  
 Prakhar Pratap Mall  
-Shivangi Singh  
 Anmol  
 Afraz Jamal   
 **Design Document**: https://docs.google.com/document/d/1mvRKSrKFR_eRiB6DzdH-8M6EAdGLNWAIDZBfni2RSYs/edit#heading=h.uqlm0f6iuvgm
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Programming and implemenatation of Features (Player Movement, Shooting, Animations, Overall Co-ordination between Game Objects, Death of Enemy, Enemy AI) , Programming of  Animations and Animators in Unity, Overall Game Design and implementation, Managing Team_
+_**Work Done By Me**: Designing the Healthbar for the enemies and the player, Adding vfx(Using Particle System to make lightning and bursts,fire spirits),game ideation 
 
-**Video of 1st Week Submission**: https://drive.google.com/file/d/1bzLICXzTFc2ztuLpDnJqoiR-f7Ph6DBc/view?usp=sharing
+**Video of 1st Week Submission**:https://drive.google.com/file/d/1fc5OGEwnRD3egjMnIFXKOtTSkuxqd73G/view?usp=sharing
 
-**Github Link of 1st Week Submission** : https://github.com/server-crash/evaluation-1
+**Github Link of 1st Week Submission** : https://github.com/Shivi3003/evaluation-1
